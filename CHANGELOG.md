@@ -1,3 +1,30 @@
+## 📦 Version 1.5.33
+### ⬆️ What's Changed
+- **bot/login/getFbstate1.js**: feat: new login method `loginMbasic`
+- **bot/login/login.js**: feat: new login method `loginMbasic`
+- **bot/login/loginMbasic.js**: feat: new login method `loginMbasic`
+### Contributors
+- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+
+---
+## 📦 Version 1.5.32
+### ⬆️ What's Changed
+- **fb-chat-api/index.js**: add new api: `handleFriendRequest`
+- **fb-chat-api/src/editMessage.js**: Update editMessage.js
+- **fb-chat-api/src/handleFriendRequest.js**: add new api: `handleFriendRequest`
+- **scripts/cmds/ban.js**: Check if the member exists in the chat box before kicking it out of the chat box
+- **scripts/cmds/rankup.js**: Fix custom message not working error
+### Contributors
+- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+
+---
+## 📦 Version 1.5.31
+### ⬆️ What's Changed
+- **scripts/cmds/setname.js**: fix error when name has special characters
+### Contributors
+- <div style="display: flex; align-items: center;"><a href="https://github.com/ntkhang03">ntkhang03&nbsp;&nbsp;</a> <img src="https://github.com/ntkhang03.png" width="20" height="20" style="border-radius:50%; margin-top: px;" alt="ntkhang03"></div>
+
+---
 ## 📦 Version 1.5.30
 ### ⬆️ What's Changed
 - **bot/handler/handlerCheckData.js**: code optimization
